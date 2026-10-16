@@ -1,0 +1,54 @@
+{
+  "repository": "https://github.com/dongc1/huffman-coding",
+  "commit": "8a05792a7f9c7d12ab65164979a6a091f5cac800",
+  "checked_on": "2026-10-16",
+  "method": "Unmodified repository source compiled with clang++ -std=c++14 -O2. Each operation uses a fresh CLI process. Compressed sizes include the header. Restored files compared byte for byte.",
+  "compiler": "Apple clang version 21.0.0 (clang-2100.3.34.2)",
+  "samples": [
+    {
+      "file": "100west.txt",
+      "original_bytes": 20366,
+      "compressed_bytes": 11701,
+      "saved_percent": 42.55,
+      "round_trip_exact": true,
+      "original_sha256": "9a9b460166056aee7d76cbcfd69126eda9283cc11acaf6540807bb5b60d55231",
+      "restored_sha256": "9a9b460166056aee7d76cbcfd69126eda9283cc11acaf6540807bb5b60d55231"
+    },
+    {
+      "file": "Adventures_of_Sherlock_Holmes.txt",
+      "original_bytes": 6344519,
+      "compressed_bytes": 3605932,
+      "saved_percent": 43.16,
+      "round_trip_exact": true,
+      "original_sha256": "b2ae3de4684ed385bd040959f13314fcf985c13256a5ebf14a7417aa90f2b398",
+      "restored_sha256": "b2ae3de4684ed385bd040959f13314fcf985c13256a5ebf14a7417aa90f2b398"
+    },
+    {
+      "file": "MOBY-DICK.txt",
+      "original_bytes": 1253919,
+      "compressed_bytes": 719789,
+      "saved_percent": 42.6,
+      "round_trip_exact": true,
+      "original_sha256": "1ac6e4c5ae0078a65393a2155f39821aa74533d3ad7584f3b67b07186c2aec0b",
+      "restored_sha256": "1ac6e4c5ae0078a65393a2155f39821aa74533d3ad7584f3b67b07186c2aec0b"
+    },
+    {
+      "file": "gogogophers.txt",
+      "original_bytes": 17,
+      "compressed_bytes": 121,
+      "saved_percent": -611.76,
+      "round_trip_exact": true,
+      "original_sha256": "0c4018fc45498e60d6a4fcfee68332057921bc1e7b258b0eb0e6ce6a57cea484",
+      "restored_sha256": "0c4018fc45498e60d6a4fcfee68332057921bc1e7b258b0eb0e6ce6a57cea484"
+    },
+    {
+      "file": "sample-2mb-text-file.txt",
+      "original_bytes": 2167737,
+      "compressed_bytes": 1146202,
+      "saved_percent": 47.12,
+      "round_trip_exact": true,
+      "original_sha256": "abf7947acf62a008be06fbdf80c2dab843af11763d7283c6efb258a3da9371ec",
+      "restored_sha256": "abf7947acf62a008be06fbdf80c2dab843af11763d7283c6efb258a3da9371ec"
+    }
+  ]
+}
